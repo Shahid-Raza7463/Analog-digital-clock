@@ -2,7 +2,7 @@
 
 ### About Analog Digital Clock
 
-this is my ..............
+Analog digital clock where you can see real time and I have used HTML,CSS and JavaScript to create this project
 
 ## Module
 
